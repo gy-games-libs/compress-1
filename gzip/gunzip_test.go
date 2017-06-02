@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/klauspost/compress/flate"
+	"github.com/gy-games-libs/kcompress/flate"
 )
 
 type gunzipTest struct {

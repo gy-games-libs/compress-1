@@ -10,7 +10,7 @@ import (
 	"io/ioutil"
 	"sync"
 
-	"github.com/klauspost/compress/flate"
+	"github.com/gy-games-libs/kcompress/flate"
 )
 
 // A Compressor returns a compressing writer, writing to the

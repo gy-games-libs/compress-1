@@ -11,8 +11,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/klauspost/compress/flate"
-	"github.com/klauspost/compress/zip"
+	"github.com/gy-games-libs/kcompress/flate"
+	"github.com/gy-games-libs/kcompress/zip"
 )
 
 func ExampleWriter() {

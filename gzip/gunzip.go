@@ -14,7 +14,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/klauspost/compress/flate"
+	"github.com/gy-games-libs/kcompress/flate"
 )
 
 const (

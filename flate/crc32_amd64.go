@@ -6,7 +6,7 @@
 package flate
 
 import (
-	"github.com/klauspost/cpuid"
+	"github.com/gy-games-libs/cpuid"
 )
 
 // crc32sse returns a hash for the first 4 bytes of the slice
